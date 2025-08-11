@@ -1,32 +1,21 @@
-# Hi, I'm Soheil A-Yamini 👋
+# 👋 Hi, I'm Soheil A-Yamini
 
-**MSc AI student** | AI/ML Engineer | AI Enthusiast
+**MSc AI Student | Python Developer | AI Enthusiast**
 
-- 🎓 Completing my Master's thesis on Topology Optimization
-- 🧑‍💻 Passionate about machine learning, deep learning, and open-source education
-- 📚 Sharing code reviews, tutorials, and helpful resources for Python learners
+- Thesis: Topology optimization using advanced generative models (Flow Matching, Normalizing Flow)
+- Practical work at JKU: Improving CV-job matching via similarity scoring strategies
+- Tech: Python (intermediate), PyTorch, Numpy, pandas, OpenCV, YOLO
 
-## 📌 Pinned Projects
-- [AI-Thesis-Project](https://github.com/Soheil-A-Yamini/AI-Thesis-Project) – Research & experiments for my MSc thesis
-- [Python-Learning-Resources](https://github.com/Soheil-A-Yamini/Python-Learning-Resources) – Guides, code reviews, and tutorials for Python learners
+## 🚀 Projects
+- **AI Thesis:** Research and code for topology optimization
+- **CV Similarity:** Strategies for analyzing candidate-job fit
+- **Python Learning:** Tutorials and code reviews for learners
 
-## 🛠️ Skills
-Python | Machine Learning | Deep Learning | Data Analysis | Git | Jupyter | PyTorch | NLP | LSTM | Computer Vision
+## 🌱 Values & Goals
+- Solving real-world problems and making life easier with AI
+- Passionate about teaching and sharing knowledge
+- Open to collaboration, freelance, and remote opportunities
 
-## 📫 Connect with me
-[[LinkedIn](https://www.linkedin.com/in/soheil-aminolroayaei-yamini-a4397285/)] | soheil.amin1986@gmail.com 
-
-<!--
-**Soheil-A-Yamini/Soheil-A-Yamini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/soheil-a-yamini/)
+- [Email](soheil.amin1986@gmail.com)
