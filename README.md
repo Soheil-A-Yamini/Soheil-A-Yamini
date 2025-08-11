@@ -14,7 +14,7 @@
 Python | Machine Learning | Deep Learning | Data Analysis | Git | Jupyter | PyTorch | NLP | LSTM | Computer Vision
 
 ## 📫 Connect with me
-[[LinkedIn](https://www.linkedin.com/in/soheil-aminolroayaei-yamini-a4397285/)](your-link) | [Email](mailto:soheil.amin1986@gmail.com)## Hi there 👋
+[[LinkedIn](https://www.linkedin.com/in/soheil-aminolroayaei-yamini-a4397285/)] | soheil.amin1986@gmail.com ## Hi there 👋
 
 <!--
 **Soheil-A-Yamini/Soheil-A-Yamini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
