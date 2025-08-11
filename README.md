@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Soheil A-Yamini
 
-**MSc AI Student | AI/ ML Engineer | Aspiring Entrepreneur
+**MSc AI Student @ JKU Linz | AI/ ML Engineer | Aspiring Entrepreneur
  | AI Enthusiast**
 
 - Thesis: Topology optimization using advanced generative models (Flow Matching, Normalizing Flow)
