@@ -18,5 +18,5 @@
 - Open to collaboration, freelance, and remote opportunities
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/soheil-a-yamini/)
+- [LinkedIn](https://www.linkedin.com/in/soheil-aminolroayaei-yamini-a4397285/)
 - [Email](soheil.amin1986@gmail.com)
