@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Soheil A-Yamini
 
-**MSc AI Student | Python Developer | AI Enthusiast**
+**MSc AI Student | AI/ ML Engineer | Aspiring Entrepreneur
+ | AI Enthusiast**
 
 - Thesis: Topology optimization using advanced generative models (Flow Matching, Normalizing Flow)
 - Practical work at JKU: Improving CV-job matching via similarity scoring strategies
