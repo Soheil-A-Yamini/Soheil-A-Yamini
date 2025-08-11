@@ -1,6 +1,6 @@
 # Hi, I'm Soheil A-Yamini 👋
 
-**MSc AI student** | Python Developer | AI Enthusiast
+**MSc AI student** | AI/ML Engineer | AI Enthusiast
 
 - 🎓 Completing my Master's thesis on Topology Optimization
 - 🧑‍💻 Passionate about machine learning, deep learning, and open-source education
